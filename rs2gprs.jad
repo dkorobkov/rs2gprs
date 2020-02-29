@@ -1,0 +1,8 @@
+MIDlet-Version: 1.2
+MIDlet-Vendor: www.gsmpager.ru
+MIDlet-Jar-URL: rs2gprs.jar
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: main,,rs2gprs.Main
+MicroEdition-Profile: IMP-NG
+MIDlet-Name: rs2gprs
+MIDlet-Jar-Size: 1234
